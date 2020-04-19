@@ -1,0 +1,6 @@
+{
+  "name": "ShowCategory",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ShowCategory.js"
+}

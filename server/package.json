@@ -1,0 +1,51 @@
+{
+  "name": "saboree",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/edward8e/SaboreeCatering#readme",
+  "bugs": {
+    "url": "https://github.com/edward8e/SaboreeCatering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward8e/SaboreeCatering.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "devfull": "concurrently \"npm run server\" \"npm run client\" \"npm run webhook\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "production": "NODE_ENV=production node index.js",
+    "server": "nodemon -L",
+    "start": "NODE_ENV=production node index.js",
+    "webhook": "npx ngrok http 3000"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.4",
+    "express-session": "^1.17.0",
+    "localtunnel": "^1.9.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.8.7",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.2",
+    "nodemon": "2.0.1",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-local": "^1.0.0",
+    "path-parser": "^4.2.0",
+    "react-pdf": "^4.0.5",
+    "sendgrid": "^5.2.3",
+    "stripe": "^7.15.0",
+    "twilio": "^3.39.1"
+  },
+  "devDependencies": {
+    "forever": "^0.15.3"
+  }
+}

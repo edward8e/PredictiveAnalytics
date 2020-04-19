@@ -1,0 +1,45 @@
+sudo: required
+services:
+  - docker
+
+# before_install:
+#   - docker build -t edward8e/react-test -f ./client/Dockerfile.dev ./client
+
+# script:
+#   - docker run -e CI=true edward8e/react-test yarn test
+
+script:
+  - echo "skipping tests"
+
+after_success:
+  - docker build -t edward8e/multi-client --build-arg REACT_APP_STRIPE_KEY="$REACT_APP_STRIPE_KEY" --build-arg REACT_APP_GOOGLE_API="$REACT_APP_GOOGLE_API" ./client
+  - docker build -t edward8e/multi-nginx ./nginx
+  - docker build -t edward8e/multi-server ./server
+  # Log in to the docker CLI
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  # Take those images and push them to docker hub
+  - docker push edward8e/multi-client
+  - docker push edward8e/multi-nginx
+  - docker push edward8e/multi-server
+  # Send the images to heroku
+  # - sudo docker login --username $HEROKU_DOCKER_USERNAME --password $HEROKU_AUTH_TOKEN registry.heroku.com
+  # - sudo docker tag edward8e/multi-client:latest registry.heroku.com/saboreecatering/client
+  # - sudo docker tag edward8e/multi-nginx:latest registry.heroku.com/saboreecatering/nginx
+  # - sudo docker tag edward8e/multi-server:latest registry.heroku.com/saboreecatering/server
+  # release the image
+  
+deploy:
+  edge: true
+  provider: elasticbeanstalk
+  region: us-west-1
+  app: online-orders
+  env: OnlineOrders-env
+  bucket_name: elasticbeanstalk-us-west-1-091750523051
+  bucket_path: docker-multi
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+
+
+      
