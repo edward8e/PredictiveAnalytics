@@ -1,2 +1,4 @@
 /client/.env.development
 /client/.env.production
+/server/yarn.lock
+/server/package-lock.json
