@@ -22,7 +22,7 @@ const ForgotPassword = React.lazy(() => import('./views/Pages/ForgotPassword'));
 const ResetPassword = React.lazy(()=> import('./views/Pages/PasswordReset'));
 const ValidateAccount = React.lazy(()=> import('./views/Pages/ValidateAccount'));
 
-const Order = React.lazy(() => import('./views/Pages/Order'));
+const Order = React.lazy(() => import('./views/Pages/MachineLearningDash/MainPage'));
 
 const App = () => {
   const auth = useSelector(state => state.auth);

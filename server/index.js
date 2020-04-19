@@ -36,6 +36,7 @@ require('./routes/menuRoutes')(app);
 require('./routes/orderRoutes')(app);
 require('./routes/updatePassword')(app);
 require('./routes/businessRoutes')(app);
+require('./routes/dataRoutes')(app);
 
 if(process.env.NODE_ENV === 'production'){
     //Express will serve up production assets
