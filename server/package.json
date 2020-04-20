@@ -44,7 +44,7 @@
     "sendgrid": "^5.2.3",
     "stripe": "^7.15.0",
     "twilio": "^3.39.1",
-    "csv-parser": "^2.3.2"
+    "csvtojson": "^2.0.10"
   },
   "devDependencies": {
     "forever": "^0.15.3"

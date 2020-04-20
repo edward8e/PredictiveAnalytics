@@ -9,6 +9,8 @@ const Category = mongoose.model('categories');
 const MenuItem = mongoose.model("menuItems");
 
 const syncReportData = require("../services/SyncData").syncReportData;
-module.exports = app => {
- syncReportData();
+module.exports = async app => {
+ const REPORT_DATA = await syncReportData();
+//  console.log(REPORT_DATA)
+ 
 };

@@ -1,3 +1,6 @@
+const fs = require("fs");
+const path = require("path");
+
 const jsUcfirst = function(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 };
@@ -36,4 +39,27 @@ const formatAMPM = function(date) {
     var strTime = hours + ":" + minutes + " " + ampm;
     return strTime;
   }
-module.exports = { jsUcfirst, formatMoney, getDate, formatAMPM };
+
+
+
+const fromDir = function(startPath, filter) {
+    //console.log('Starting from dir '+startPath+'/');
+    let filesComplete = [];
+    if (!fs.existsSync(startPath)) {
+      console.log("no dir ", startPath);
+      return;
+    }
+    var files = fs.readdirSync(startPath);
+    for (var i = 0; i < files.length; i++) {
+      var filename = path.join(startPath, files[i]);
+      var stat = fs.lstatSync(filename);
+      if (stat.isDirectory()) {
+        fromDir(filename, filter); //recurse
+      } else if (filename.indexOf(filter) >= 0) {
+        // console.log('-- found: ',filename);
+        filesComplete.push(filename);
+      }
+    }
+    return filesComplete;
+  }
+module.exports = { jsUcfirst, formatMoney, getDate, formatAMPM,fromDir };
