@@ -6,13 +6,7 @@ const passport = require('passport');
 const bodyParser = require('body-parser');
 require('./models/User');
 require('./models/MenuItem');
-require('./models/Survey');
-require('./services/passport');
-require('./models/Order');
-require('./models/Category');
-require('./models/Business');
-// require('./services/Invoice');
-
+require('./models/AnalyticResult');
 
 mongoose.connect(keys.mongoURI);
 
@@ -31,11 +25,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 require('./routes/authRoutes')(app);
-require('./routes/billingRoutes')(app);
-require('./routes/menuRoutes')(app);
-require('./routes/orderRoutes')(app);
 require('./routes/updatePassword')(app);
-require('./routes/businessRoutes')(app);
 require('./routes/dataRoutes')(app);
 
 if(process.env.NODE_ENV === 'production'){

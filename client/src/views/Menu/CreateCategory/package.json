@@ -1,6 +1,0 @@
-{
-  "name": "CreateCategory",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./CreateCategory.js"
-}

@@ -9,7 +9,6 @@ const userSchema = new Schema({
     lastName: String,
     email: String,
     phone: String,
-    business: { type: Schema.Types.ObjectId, ref: "businesses" },
     password: { type: String, default: null },
     accountType: { type: String, default: 'users' },
     validated: {type: Boolean, default: false},

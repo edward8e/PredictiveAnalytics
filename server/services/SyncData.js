@@ -2,22 +2,19 @@ const _ = require("lodash");
 const fs = require("fs");
 const path = require("path");
 const mongoose = require("mongoose");
-const Order = mongoose.model("orders");
 const keys = require("../config/keys");
 const schedule = require("node-schedule");
 const csv = require('csvtojson')
 const utils = require('../utils/Utils');
-const reportsDir = "./data/report";
 
 
-
-const syncReportData = async function () {
+const syncReportData = async function (dirPath) {
   let gatheredData = [];
-  const dataFiles = utils.fromDir(reportsDir, ".csv");
+  const dataFiles = utils.fromDir(dirPath, ".csv");
 
   for (datafile of dataFiles) {
     const fileData = await csv().fromFile(datafile);
-    gatheredData.push(fileData);
+    gatheredData = [...gatheredData, ...fileData]
   }
   return gatheredData;
 };
