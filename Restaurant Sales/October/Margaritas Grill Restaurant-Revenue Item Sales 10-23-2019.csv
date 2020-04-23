@@ -1,0 +1,29 @@
+Revenue Item Sales Report
+"Oct 23, 2019 12:00 am - Oct 23, 2019 11:59 pm"
+"Requested on: Apr 16, 2020 4:20 pm"
+Filters: none
+
+Items: All
+Item Type:Revenue Items
+"The report reflects all revenue items in paid, partially paid, partially refunded and refunded status. Does not include open orders."
+
+
+Gross Sales,$127.75
+Net Sales,$121.75
+COGS,$0.00
+Gross Profit,$101.75
+Gross Profit Margin,83.57%
+
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Gross Profit
+Camarones Costa Azul,1,0,$19.95,$0.00,-$0.00,$19.95,16.39%,$19.95,$0.00,$19.95
+Camarones,1,0,$17.95,$0.00,-$0.00,$17.95,14.74%,$17.95,$0.00,$17.95
+Filet,1,0,$14.95,$0.00,-$0.00,$14.95,12.28%,$14.95,$0.00,$14.95
+MONDAY Margarita,2,0,$14.00,$0.00,-$0.00,$14.00,11.50%,$7.00,$0.00,$14.00
+Large Chile Relleno,1,0,$12.95,$0.00,-$0.00,$12.95,10.64%,$12.95,$0.00,$12.95
+Dona Margarita,1,0,$12.00,$0.00,-$0.00,$12.00,9.86%,$12.00,$0.00,$12.00
+Combination de Dos,1,0,$9.95,$0.00,-$0.00,$9.95,8.17%,$9.95,$0.00,$9.95
+Cabernet Sauvigon,2,0,$14.00,-$5.00,-$0.00,$9.00,7.39%,$4.50,$0.00,$0.00
+Taco A La Carte,2,0,$7.00,$0.00,-$0.00,$7.00,5.75%,$3.50,$0.00,$0.00
+Modelo Especial,1,0,$5.00,-$1.00,-$0.00,$4.00,3.29%,$4.00,$0.00,$0.00
+
+TOTAL,13,0,$127.75,-$6.00,$0.00,$121.75,100.00%,$9.37,$0.00,$101.75

@@ -1,0 +1,36 @@
+Revenue Item Sales Report
+"Feb 26, 2020 12:00 am - Feb 26, 2020 11:59 pm"
+"Requested on: Apr 16, 2020 5:18 pm"
+Filters: none
+
+Items: All
+Item Type:Revenue Items
+"The report reflects all revenue items in paid, partially paid, partially refunded and refunded status. Does not include open orders."
+
+
+Gross Sales,$200.35
+Net Sales,$115.75
+COGS,$0.00
+Gross Profit,$77.75
+Gross Profit Margin,67.17%
+
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Gross Profit
+White Russian,3,0,$24.00,$0.00,-$0.00,$24.00,20.73%,$8.00,$0.00,$0.00
+Combination de Dos,4,0,$43.80,-$21.90,-$0.00,$21.90,18.92%,$5.48,$0.00,$21.90
+Mojarra,1,0,$15.95,$0.00,-$0.00,$15.95,13.78%,$15.95,$0.00,$15.95
+Champagne,4,0,$12.00,$0.00,-$0.00,$12.00,10.37%,$3.00,$0.00,$12.00
+Negra Modelo,2,0,$10.00,$0.00,-$0.00,$10.00,8.64%,$5.00,$0.00,$0.00
+Combination de Uno,2,0,$17.90,-$7.95,-$0.00,$9.95,8.60%,$4.98,$0.00,$9.95
+The Great Panino,1,0,$8.95,$0.00,-$0.00,$8.95,7.73%,$8.95,$0.00,$8.95
+House Margarita,1,0,$7.00,-$2.00,-$0.00,$5.00,4.32%,$5.00,$0.00,$5.00
+Michelo Ultra Light,1,0,$6.00,-$2.00,-$0.00,$4.00,3.46%,$4.00,$0.00,$0.00
+Side Beans,1,0,$2.00,$0.00,-$0.00,$2.00,1.73%,$2.00,$0.00,$2.00
+Side Macaroni,1,0,$2.00,$0.00,-$0.00,$2.00,1.73%,$2.00,$0.00,$2.00
+Carne Asada Fries,1,0,$11.95,-$11.95,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+Cheese Quesadilla,1,0,$7.95,-$7.95,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+"Flauta Appetizer ",1,0,$7.95,-$7.95,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+KIDS Chicken Strips,1,0,$8.95,-$8.95,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+Taco Salad,1,0,$13.95,-$13.95,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+Water,2,0,$0.00,$0.00,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+
+TOTAL,28,0,$200.35,-$84.60,$0.00,$115.75,100.00%,$4.13,$0.00,$77.75

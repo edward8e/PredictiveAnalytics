@@ -1,0 +1,19 @@
+Revenue Item Sales Report
+"Dec 24, 2019 12:00 am - Dec 24, 2019 11:59 pm"
+"Requested on: Apr 16, 2020 4:45 pm"
+Filters: none
+
+Items: All
+Item Type:Revenue Items
+"The report reflects all revenue items in paid, partially paid, partially refunded and refunded status. Does not include open orders."
+
+
+Gross Sales,$0.00
+Net Sales,$0.00
+COGS,$0.00
+Gross Profit,$0.00
+Gross Profit Margin,0.00%
+
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Gross Profit
+
+TOTAL,0,0,$0.00,$0.00,$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
