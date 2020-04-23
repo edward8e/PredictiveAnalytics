@@ -10,7 +10,7 @@
     "@tensorflow/tfjs-node": "^0.1.17",
     "cli-progress": "^3.7.0",
     "csv": "^5.3.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "memoize": "^0.1.1",
     "mnist-data": "^1.2.6",
     "node-remote-plot": "^1.2.0",
