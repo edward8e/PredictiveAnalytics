@@ -1,0 +1,40 @@
+Revenue Item Sales Report
+"Jan 08, 2020 12:00 am - Jan 08, 2020 11:59 pm"
+"Requested on: Apr 16, 2020 4:52 pm"
+Filters: none
+
+Items: All
+Item Type:Revenue Items
+"The report reflects all revenue items in paid, partially paid, partially refunded and refunded status. Does not include open orders."
+
+
+Gross Sales,$442.15
+Net Sales,$334.81
+COGS,$17.90
+Gross Profit,$316.91
+Gross Profit Margin,94.65%
+
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Gross Profit
+House Margarita,12,0,$84.00,-$36.00,-$0.00,$48.00,14.34%,$4.00,$0.00,$48.00
+Tostada De Ceviche,8,0,$83.60,-$41.80,-$0.00,$41.80,12.48%,$5.23,$0.00,$41.80
+Combination de Dos,4,0,$39.80,$0.00,-$0.00,$39.80,11.89%,$9.95,$0.00,$39.80
+Combination de Tres,3,0,$37.85,-$11.95,-$0.00,$25.90,7.74%,$8.63,$0.00,$25.90
+Cadillac Margarita,1,0,$20.00,$0.00,-$0.00,$20.00,5.97%,$20.00,$0.00,$20.00
+Camarones,1,0,$17.95,$0.00,-$0.00,$17.95,5.36%,$17.95,$0.00,$17.95
+Carne Asada Plate,1,0,$17.95,$0.00,-$0.00,$17.95,5.36%,$17.95,$0.00,$17.95
+Tequila Shrimp Fettuccini,1,0,$17.95,$0.00,-$0.00,$17.95,5.36%,$17.95,$0.00,$17.95
+Mojarra,1,0,$15.95,$0.00,-$0.00,$15.95,4.76%,$15.95,$0.00,$15.95
+Grilled Chicken Burrito,1,0,$12.95,$0.00,-$0.00,$12.95,3.87%,$12.95,$0.00,$12.95
+Guacamole Full Size,2,0,$23.90,-$11.95,-$0.00,$11.95,3.57%,$5.98,$17.90,-$5.95
+Soft Drink,4,0,$13.00,-$3.25,-$0.00,$9.75,2.91%,$2.44,$0.00,$9.75
+Horchata,2,0,$9.00,$0.00,-$0.00,$9.00,2.69%,$4.50,$0.00,$9.00
+Breakfast Burrito,1,0,$8.95,$0.00,-$0.00,$8.95,2.67%,$8.95,$0.00,$8.95
+Chilaquiles Rojos,1,0,$8.95,$0.00,-$0.00,$8.95,2.67%,$8.95,$0.00,$8.95
+KIDS Cheese Quesadilla,1,0,$8.95,$0.00,-$0.00,$8.95,2.67%,$8.95,$0.00,$8.95
+KIDS Hamburger,1,0,$8.95,$0.00,-$0.00,$8.95,2.67%,$8.95,$0.00,$8.95
+HH Guacamole,1,0,$7.95,-$2.39,-$0.00,$5.56,1.66%,$5.56,$0.00,$5.56
+Mimosa,1,0,$3.00,$0.00,-$0.00,$3.00,0.90%,$3.00,$0.00,$3.00
+Side Corn Tortillas,1,0,$1.50,$0.00,-$0.00,$1.50,0.45%,$1.50,$0.00,$1.50
+Water,2,0,$0.00,$0.00,-$0.00,$0.00,0.00%,$0.00,$0.00,$0.00
+
+TOTAL,50,0,$442.15,-$107.34,$0.00,$334.81,100.00%,$6.70,$17.90,$316.91

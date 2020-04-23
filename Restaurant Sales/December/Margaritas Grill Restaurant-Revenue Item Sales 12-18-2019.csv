@@ -1,0 +1,40 @@
+Revenue Item Sales Report
+"Dec 18, 2019 12:00 am - Dec 18, 2019 11:59 pm"
+"Requested on: Apr 16, 2020 4:43 pm"
+Filters: none
+
+Items: All
+Item Type:Revenue Items
+"The report reflects all revenue items in paid, partially paid, partially refunded and refunded status. Does not include open orders."
+
+
+Gross Sales,$720.44
+Net Sales,$701.11
+COGS,$17.90
+Gross Profit,$279.47
+Gross Profit Margin,39.86%
+
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Gross Profit
+Item 1,1,0,$391.74,$0.00,-$0.00,$391.74,55.87%,$391.74,$0.00,$0.00
+Combination de Dos,7,0,$69.65,$0.00,-$0.00,$69.65,9.93%,$9.95,$0.00,$69.65
+House Margarita,7,0,$71.00,-$8.00,-$0.00,$63.00,8.99%,$9.00,$0.00,$63.00
+Camarones Costa Azul,1,0,$19.95,$0.00,-$0.00,$19.95,2.85%,$19.95,$0.00,$19.95
+Carne Asada Plate,1,0,$17.95,$0.00,-$0.00,$17.95,2.56%,$17.95,$0.00,$17.95
+Guacamole Full Size,2,0,$17.90,$0.00,-$0.00,$17.90,2.55%,$8.95,$17.90,$0.00
+Deep Fried Ice Cream,2,0,$13.90,$0.00,-$0.00,$13.90,1.98%,$6.95,$0.00,$13.90
+Soft Drink,4,0,$13.00,$0.00,-$0.00,$13.00,1.85%,$3.25,$0.00,$13.00
+Nachos Vaqueros,1,0,$11.95,$0.00,-$0.00,$11.95,1.70%,$11.95,$0.00,$11.95
+Montejo,2,0,$15.90,-$4.00,-$0.00,$11.90,1.70%,$5.95,$0.00,$11.90
+Carne Asada Salad,1,0,$14.95,-$3.74,-$0.00,$11.21,1.60%,$11.21,$0.00,$11.21
+Tostada De Ceviche,1,0,$9.95,$0.00,-$0.00,$9.95,1.42%,$9.95,$0.00,$9.95
+Albondigas Soup,1,0,$8.95,$0.00,-$0.00,$8.95,1.28%,$8.95,$0.00,$8.95
+HH Nachos Vaqueros,1,0,$11.95,-$3.59,-$0.00,$8.36,1.19%,$8.36,$0.00,$8.36
+Montejo michelada,1,0,$8.00,$0.00,-$0.00,$8.00,1.14%,$8.00,$0.00,$0.00
+Combination de Uno,1,0,$7.95,$0.00,-$0.00,$7.95,1.13%,$7.95,$0.00,$7.95
+Jamaica,1,0,$4.50,$0.00,-$0.00,$4.50,0.64%,$4.50,$0.00,$4.50
+Taquito A La Carte,2,0,$4.00,$0.00,-$0.00,$4.00,0.57%,$2.00,$0.00,$0.00
+Side Guacamole,1,0,$3.00,$0.00,-$0.00,$3.00,0.43%,$3.00,$0.00,$3.00
+Coffee,1,0,$2.75,$0.00,-$0.00,$2.75,0.39%,$2.75,$0.00,$2.75
+Sour Cream,1,0,$1.50,$0.00,-$0.00,$1.50,0.21%,$1.50,$0.00,$1.50
+
+TOTAL,40,0,$720.44,-$19.33,$0.00,$701.11,100.00%,$17.53,$17.90,$279.47
