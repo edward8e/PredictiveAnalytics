@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Utils from './Utils';
+import ValidationForms from './ValidationForms';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');
-  ReactDOM.render(<Utils />, div);
+  ReactDOM.render(<ValidationForms />, div);
   ReactDOM.unmountComponentAtNode(div);
 });

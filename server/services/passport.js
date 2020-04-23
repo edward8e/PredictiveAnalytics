@@ -72,7 +72,7 @@ passport.use(
           }
          
         }
-      ).populate("business")
+      )
       return done(null, user);
     }
   )

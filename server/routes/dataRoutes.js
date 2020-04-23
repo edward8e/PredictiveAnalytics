@@ -1,6 +1,3 @@
-const _ = require("lodash");
-const Path = require("path-parser").default;
-const { URL } = require("url");
 const mongoose = require("mongoose");
 const requireLogin = require("../middlewares/requireLogin");
 const requireAdmin = require("../middlewares/requireAdmin");
@@ -9,11 +6,12 @@ const MenuItem = mongoose.model("menuItems");
 const AnalyticResult = mongoose.model("analyticResult");
 
 const syncReportData = require("../services/SyncData").syncReportData;
+
 module.exports = app => {
     app.post("/api/update", async (req, res) => {
        const RESULT_DATA = [];
     const REPORT_DATA = [];
-    // REPORT_DATA = await syncReportData("./data/report");
+    REPORT_DATA = await syncReportData("./data/report");
 
     for (item of REPORT_DATA) {
         const menuItem = new MenuItem({
@@ -52,7 +50,7 @@ module.exports = app => {
     console.log('finished')
 
 
-    // RESULT_DATA = await syncReportData("./data/results");
+    RESULT_DATA = await syncReportData("./data/results");
 
     for (item of RESULT_DATA) {
         const analyticResult = new AnalyticResult({
@@ -85,9 +83,13 @@ module.exports = app => {
     });
     
 
-    app.get("/api/analytics", async (req, res) => {
-        console.log("hiiiiiiiiiiiiiiiii")
+    app.get("/api/analytic", async (req, res) => {
         const analyticResult = await AnalyticResult.find();
         res.send(analyticResult);
+    });
+    app.post("/api/itemInfo", async (req, res) => {
+        console.log(req.body)
+        const itemInfo = await MenuItem.find({ "itemName": req.body.itemName.split('.').slice(0, -1).join('.')});
+        res.send(itemInfo);
     });
 };

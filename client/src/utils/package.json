@@ -1,6 +1,0 @@
-{
-  "name": "Utils",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./Utils.js"
-}
