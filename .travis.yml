@@ -26,8 +26,8 @@ deploy:
   edge: true
   provider: elasticbeanstalk
   region: us-west-1
-  app: online-orders
-  env: OnlineOrders-env
+  app: multi-docker
+  env: MultiDocker-env
   bucket_name: elasticbeanstalk-us-west-1-091750523051
   bucket_path: docker-multi
   on:
