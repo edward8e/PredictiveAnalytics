@@ -1,246 +1,306 @@
-Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Day of Week,Weekend,Week of Month,Day Temperature Cel,Gross Profit,Date
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,21,0,2019-10-1
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,21,0,2019-10-1
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,10.64,12.95,0.0,2,0,4,32,12.95,2019-10-23
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,32,0,2019-10-23
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,32,0,2019-10-22
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,32,0,2019-10-22
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,21,0,2019-10-29
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,21,0,2019-10-29
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2019-10-28
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2019-10-28
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.52,12.95,0.0,3,0,3,25,12.95,2019-10-17
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,25,0,2019-10-17
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,29,0,2019-10-16
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,29,0,2019-10-16
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,31,0,2019-10-24
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,31,0,2019-10-24
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,31,0,2019-10-25
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,31,0,2019-10-25
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,24,0,2019-10-10
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,24,0,2019-10-10
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.38,12.95,0.0,4,0,2,27,25.9,2019-10-11
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,27,0,2019-10-11
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,32,0,2019-10-7
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,32,0,2019-10-7
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,32,0,2019-10-6
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,32,0,2019-10-6
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,22,0,2019-10-14
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,22,0,2019-10-14
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,29,0,2019-10-15
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,29,0,2019-10-15
-Large Chile Relleno,3.0,0.0,38.85,0.0,-0.0,38.85,1.13,12.95,0.0,6,0,3,27,38.85,2019-10-20
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,27,0,2019-10-20
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,3.67,12.95,0.0,0,0,3,31,25.9,2019-10-21
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,31,0,2019-10-21
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-10-3
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-10-3
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,27,0,2019-10-2
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,27,0,2019-10-2
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-10-9
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-10-9
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,29,0,2019-10-8
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,29,0,2019-10-8
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.23,12.95,0.0,4,0,1,26,25.9,2019-10-4
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,26,0,2019-10-4
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.65,12.95,0.0,5,1,1,30,12.95,2019-10-5
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,30,0,2019-10-5
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,18,0,2019-10-30
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,18,0,2019-10-30
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.63,12.95,0.0,3,0,5,20,12.95,2019-10-31
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,5,20,0,2019-10-31
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,26,0,2019-10-13
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,26,0,2019-10-13
-Large Chile Relleno,2.0,0.0,25.9,-12.95,-0.0,12.95,0.71,6.48,0.0,5,1,2,28,12.95,2019-10-12
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,28,0,2019-10-12
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,22,0,2019-10-27
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,22,0,2019-10-27
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.45,12.95,0.0,5,1,4,30,25.9,2019-10-26
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,30,0,2019-10-26
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.7,12.95,0.0,5,1,3,26,25.9,2019-10-19
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,26,0,2019-10-19
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,23,0,2019-10-18
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,23,0,2019-10-18
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,3.76,12.95,0.0,3,0,1,15,12.95,2019-12-5
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,15,0,2019-12-5
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,11,0,2019-12-4
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,11,0,2019-12-4
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.46,12.95,0.0,1,0,5,15,25.9,2019-12-31
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,15,0,2019-12-31
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,5,11,0,2019-12-30
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,5,11,0,2019-12-30
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.7,12.95,0.0,3,0,2,19,12.95,2019-12-12
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,19,0,2019-12-12
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,22,0,2019-12-13
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,22,0,2019-12-13
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,6,0,2019-12-26
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,6,0,2019-12-26
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,11,0,2019-12-27
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,11,0,2019-12-27
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-12-18
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-12-18
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,15,0,2019-12-19
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,15,0,2019-12-19
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,14,0,2019-12-15
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,14,0,2019-12-15
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,15,0,2019-12-14
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,15,0,2019-12-14
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.72,12.95,0.0,5,1,3,18,25.9,2019-12-21
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2019-12-21
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,17,0,2019-12-20
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,17,0,2019-12-20
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,17,0,2019-12-2
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,17,0,2019-12-2
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,18,0,2019-12-3
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,18,0,2019-12-3
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2019-12-8
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2019-12-8
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,16,0,2019-12-9
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,16,0,2019-12-9
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,9,0,2019-12-25
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,9,0,2019-12-25
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,12,0,2019-12-24
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,12,0,2019-12-24
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.52,12.95,0.0,2,0,2,18,12.95,2019-12-11
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,18,0,2019-12-11
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2019-12-10
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2019-12-10
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,18,0,2019-12-6
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,18,0,2019-12-6
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.42,12.95,0.0,5,1,1,16,12.95,2019-12-7
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,16,0,2019-12-7
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,14,0,2019-12-1
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,14,0,2019-12-1
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,17,0,2019-12-22
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,17,0,2019-12-22
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,9,0,2019-12-23
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,9,0,2019-12-23
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,13,0,2019-12-28
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,13,0,2019-12-28
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,5,12,0,2019-12-29
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,5,12,0,2019-12-29
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,3.37,12.95,0.0,0,0,3,15,12.95,2019-12-16
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,15,0,2019-12-16
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,12,0,2019-12-17
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,12,0,2019-12-17
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.09,12.95,0.0,1,0,1,9,12.95,2020-2-4
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,9,0,2020-2-4
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,12,0,2020-2-5
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,12,0,2020-2-5
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,19,0,2020-2-19
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,19,0,2020-2-19
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,19,0,2020-2-18
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,19,0,2020-2-18
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.34,12.95,0.0,3,0,4,24,12.95,2020-2-27
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,24,0,2020-2-27
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,21,0,2020-2-26
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,21,0,2020-2-26
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.42,12.95,0.0,3,0,2,17,12.95,2020-2-13
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,17,0,2020-2-13
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-2-12
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-2-12
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,2.62,12.95,0.0,3,0,3,23,25.9,2020-2-20
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,23,0,2020-2-20
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.41,12.95,0.0,4,0,3,24,12.95,2020-2-21
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,24,0,2020-2-21
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.49,12.95,0.0,4,0,2,18,25.9,2020-2-14
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,18,0,2020-2-14
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2020-2-15
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2020-2-15
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.74,12.95,0.0,6,0,2,10,25.9,2020-2-9
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,10,0,2020-2-9
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,2.39,12.95,0.0,5,1,2,20,25.9,2020-2-8
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,20,0,2020-2-8
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,11,0,2020-2-3
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,11,0,2020-2-3
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,21,0,2020-2-2
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,21,0,2020-2-2
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-2-10
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-2-10
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2020-2-11
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2020-2-11
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.41,12.95,0.0,0,0,4,20,12.95,2020-2-24
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2020-2-24
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.11,12.95,0.0,1,0,4,25,12.95,2020-2-25
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,25,0,2020-2-25
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-2-7
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-2-7
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,14,0,2020-2-6
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,14,0,2020-2-6
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,24,0,2020-2-1
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,24,0,2020-2-1
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.59,12.95,0.0,0,0,3,19,12.95,2020-2-17
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,19,0,2020-2-17
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,20,0,2020-2-16
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,20,0,2020-2-16
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,5,19,0,2020-2-29
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,5,19,0,2020-2-29
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.94,12.95,0.0,4,0,4,23,25.9,2020-2-28
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,23,0,2020-2-28
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.33,12.95,0.0,6,0,4,14,12.95,2020-2-23
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,14,0,2020-2-23
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,14,0,2020-2-22
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,14,0,2020-2-22
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.61,12.95,0.0,4,0,1,19,12.95,2020-1-3
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-1-3
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,17,0,2020-1-2
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,17,0,2020-1-2
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.93,12.95,0.0,3,0,2,11,12.95,2020-1-9
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,11,0,2020-1-9
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-1-8
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-1-8
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,15,0,2020-1-14
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,15,0,2020-1-14
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,4.61,12.95,0.0,2,0,3,15,25.9,2020-1-15
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,15,0,2020-1-15
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,17,0,2020-1-20
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,17,0,2020-1-20
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.54,12.95,0.0,1,0,3,11,12.95,2020-1-21
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,11,0,2020-1-21
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-1-13
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-1-13
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.88,12.95,0.0,6,0,2,15,25.9,2020-1-12
-Large Chile Relleno,1.0,0.0,14.95,0.0,-0.0,14.95,0.51,14.95,0.0,6,0,2,15,0.0,2020-1-12
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2020-1-12
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,19,0,2020-1-27
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,19,0,2020-1-27
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.44,12.95,0.0,6,0,4,19,12.95,2020-1-26
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,19,0,2020-1-26
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.9,12.95,0.0,6,0,3,19,12.95,2020-1-19
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,19,0,2020-1-19
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.74,12.95,0.0,5,1,3,17,12.95,2020-1-18
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,17,0,2020-1-18
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.07,12.95,0.0,5,1,1,18,12.95,2020-1-4
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,18,0,2020-1-4
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.63,12.95,0.0,6,0,1,17,12.95,2020-1-5
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,17,0,2020-1-5
-Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,3.46,12.95,0.0,3,0,5,18,25.9,2020-1-30
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,5,18,0,2020-1-30
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,21,0,2020-1-31
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,21,0,2020-1-31
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.31,12.95,0.0,3,0,4,19,12.95,2020-1-23
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,19,0,2020-1-23
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.04,12.95,0.0,2,0,4,14,12.95,2020-1-22
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,14,0,2020-1-22
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,17,0,2020-1-29
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,17,0,2020-1-29
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,21,0,2020-1-28
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,21,0,2020-1-28
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,12,0,2020-1-17
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,12,0,2020-1-17
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.06,12.95,0.0,3,0,3,14,12.95,2020-1-16
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,14,0,2020-1-16
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,16,0,2020-1-1
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,16,0,2020-1-1
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,19,0,2020-1-7
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,19,0,2020-1-7
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,19,0,2020-1-6
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,19,0,2020-1-6
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,21,0,2020-1-24
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,21,0,2020-1-24
-Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,22,0,2020-1-25
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,22,0,2020-1-25
-Special Large Chile Relleno,1.0,0.0,14.95,0.0,-0.0,14.95,0.56,14.95,0.0,4,0,2,15,0.0,2020-1-10
-Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.48,12.95,0.0,4,0,2,15,12.95,2020-1-10
-Large Chile Relleno,4.0,0.0,51.8,0.0,-0.0,51.8,2.65,12.95,0.0,5,1,2,16,51.8,2020-1-11
-Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,16,0,2020-1-11
+Name,Sold,Refunded,Gross Sales,Discounts,Refunds,Net Sales,% Net Sales,Avg Net Sales,COGS,Day of Week,Weekend,Week of Month,Day Temperature Cel,Gross Profit,Date
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,21,0,2019-10-1
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,21,0,2019-10-1
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,27,0,2019-10-2
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,27,0,2019-10-2
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-10-3
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-10-3
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.23,12.95,0.0,4,0,1,26,25.9,2019-10-4
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,26,0,2019-10-4
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.65,12.95,0.0,5,1,1,30,12.95,2019-10-5
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,30,0,2019-10-5
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,32,0,2019-10-6
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,32,0,2019-10-6
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,32,0,2019-10-7
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,32,0,2019-10-7
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,29,0,2019-10-8
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,29,0,2019-10-8
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-10-9
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-10-9
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,24,0,2019-10-10
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,24,0,2019-10-10
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.38,12.95,0.0,4,0,2,27,25.9,2019-10-11
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,27,0,2019-10-11
+Large Chile Relleno,2.0,0.0,25.9,-12.95,-0.0,12.95,0.71,6.48,0.0,5,1,2,28,12.95,2019-10-12
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,28,0,2019-10-12
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,26,0,2019-10-13
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,26,0,2019-10-13
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,22,0,2019-10-14
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,22,0,2019-10-14
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,29,0,2019-10-15
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,29,0,2019-10-15
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,29,0,2019-10-16
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,29,0,2019-10-16
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.52,12.95,0.0,3,0,3,25,12.95,2019-10-17
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,25,0,2019-10-17
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,23,0,2019-10-18
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,23,0,2019-10-18
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.7,12.95,0.0,5,1,3,26,25.9,2019-10-19
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,26,0,2019-10-19
+Large Chile Relleno,3.0,0.0,38.85,0.0,-0.0,38.85,1.13,12.95,0.0,6,0,3,27,38.85,2019-10-20
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,27,0,2019-10-20
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,3.67,12.95,0.0,0,0,3,31,25.9,2019-10-21
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,31,0,2019-10-21
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,32,0,2019-10-22
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,32,0,2019-10-22
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,10.64,12.95,0.0,2,0,4,32,12.95,2019-10-23
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,32,0,2019-10-23
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,31,0,2019-10-24
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,31,0,2019-10-24
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,31,0,2019-10-25
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,31,0,2019-10-25
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.45,12.95,0.0,5,1,4,30,25.9,2019-10-26
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,30,0,2019-10-26
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,22,0,2019-10-27
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,22,0,2019-10-27
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2019-10-28
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2019-10-28
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,21,0,2019-10-29
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,21,0,2019-10-29
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,18,0,2019-10-30
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,18,0,2019-10-30
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.63,12.95,0.0,3,0,5,20,12.95,2019-10-31
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,5,20,0,2019-10-31
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,14,0,2019-12-1
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,14,0,2019-12-1
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,17,0,2019-12-2
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,17,0,2019-12-2
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,18,0,2019-12-3
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,18,0,2019-12-3
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,11,0,2019-12-4
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,11,0,2019-12-4
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,3.76,12.95,0.0,3,0,1,15,12.95,2019-12-5
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,15,0,2019-12-5
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,18,0,2019-12-6
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,18,0,2019-12-6
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.42,12.95,0.0,5,1,1,16,12.95,2019-12-7
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,16,0,2019-12-7
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2019-12-8
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2019-12-8
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,16,0,2019-12-9
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,16,0,2019-12-9
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2019-12-10
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2019-12-10
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.52,12.95,0.0,2,0,2,18,12.95,2019-12-11
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,18,0,2019-12-11
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.7,12.95,0.0,3,0,2,19,12.95,2019-12-12
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,19,0,2019-12-12
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,22,0,2019-12-13
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,22,0,2019-12-13
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,15,0,2019-12-14
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,15,0,2019-12-14
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,14,0,2019-12-15
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,14,0,2019-12-15
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,3.37,12.95,0.0,0,0,3,15,12.95,2019-12-16
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,15,0,2019-12-16
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,12,0,2019-12-17
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,12,0,2019-12-17
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-12-18
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-12-18
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,15,0,2019-12-19
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,15,0,2019-12-19
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,17,0,2019-12-20
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,17,0,2019-12-20
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.72,12.95,0.0,5,1,3,18,25.9,2019-12-21
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2019-12-21
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,17,0,2019-12-22
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,17,0,2019-12-22
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,9,0,2019-12-23
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,9,0,2019-12-23
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,12,0,2019-12-24
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,12,0,2019-12-24
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,9,0,2019-12-25
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,9,0,2019-12-25
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,6,0,2019-12-26
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,6,0,2019-12-26
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,11,0,2019-12-27
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,11,0,2019-12-27
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,13,0,2019-12-28
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,13,0,2019-12-28
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,5,12,0,2019-12-29
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,5,12,0,2019-12-29
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,5,11,0,2019-12-30
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,5,11,0,2019-12-30
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.46,12.95,0.0,1,0,5,15,25.9,2019-12-31
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,5,15,0,2019-12-31
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,24,0,2020-2-1
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,24,0,2020-2-1
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,21,0,2020-2-2
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,21,0,2020-2-2
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,11,0,2020-2-3
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,11,0,2020-2-3
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.09,12.95,0.0,1,0,1,9,12.95,2020-2-4
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,9,0,2020-2-4
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,12,0,2020-2-5
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,12,0,2020-2-5
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,14,0,2020-2-6
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,14,0,2020-2-6
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-2-7
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-2-7
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,2.39,12.95,0.0,5,1,2,20,25.9,2020-2-8
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,20,0,2020-2-8
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.74,12.95,0.0,6,0,2,10,25.9,2020-2-9
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,10,0,2020-2-9
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-2-10
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-2-10
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2020-2-11
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,16,0,2020-2-11
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-2-12
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-2-12
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.42,12.95,0.0,3,0,2,17,12.95,2020-2-13
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,17,0,2020-2-13
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.49,12.95,0.0,4,0,2,18,25.9,2020-2-14
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,18,0,2020-2-14
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2020-2-15
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,18,0,2020-2-15
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,20,0,2020-2-16
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,20,0,2020-2-16
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.59,12.95,0.0,0,0,3,19,12.95,2020-2-17
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,19,0,2020-2-17
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,19,0,2020-2-18
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,19,0,2020-2-18
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,19,0,2020-2-19
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,19,0,2020-2-19
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,2.62,12.95,0.0,3,0,3,23,25.9,2020-2-20
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,23,0,2020-2-20
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.41,12.95,0.0,4,0,3,24,12.95,2020-2-21
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,24,0,2020-2-21
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,14,0,2020-2-22
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,14,0,2020-2-22
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.33,12.95,0.0,6,0,4,14,12.95,2020-2-23
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,14,0,2020-2-23
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.41,12.95,0.0,0,0,4,20,12.95,2020-2-24
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,20,0,2020-2-24
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.11,12.95,0.0,1,0,4,25,12.95,2020-2-25
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,25,0,2020-2-25
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,21,0,2020-2-26
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,21,0,2020-2-26
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.34,12.95,0.0,3,0,4,24,12.95,2020-2-27
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,24,0,2020-2-27
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.94,12.95,0.0,4,0,4,23,25.9,2020-2-28
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,23,0,2020-2-28
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,5,19,0,2020-2-29
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,5,19,0,2020-2-29
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,16,0,2020-1-1
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,16,0,2020-1-1
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,17,0,2020-1-2
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,17,0,2020-1-2
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.61,12.95,0.0,4,0,1,19,12.95,2020-1-3
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,19,0,2020-1-3
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.07,12.95,0.0,5,1,1,18,12.95,2020-1-4
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,18,0,2020-1-4
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.63,12.95,0.0,6,0,1,17,12.95,2020-1-5
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,17,0,2020-1-5
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,19,0,2020-1-6
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,19,0,2020-1-6
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,19,0,2020-1-7
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,19,0,2020-1-7
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-1-8
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,15,0,2020-1-8
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.93,12.95,0.0,3,0,2,11,12.95,2020-1-9
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,11,0,2020-1-9
+Special Large Chile Relleno,1.0,0.0,14.95,0.0,-0.0,14.95,0.56,14.95,0.0,4,0,2,15,0.0,2020-1-10
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.48,12.95,0.0,4,0,2,15,12.95,2020-1-10
+Large Chile Relleno,4.0,0.0,51.8,0.0,-0.0,51.8,2.65,12.95,0.0,5,1,2,16,51.8,2020-1-11
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,16,0,2020-1-11
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,0.88,12.95,0.0,6,0,2,15,25.9,2020-1-12
+Large Chile Relleno,1.0,0.0,14.95,0.0,-0.0,14.95,0.51,14.95,0.0,6,0,2,15,0.0,2020-1-12
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,15,0,2020-1-12
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-1-13
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,13,0,2020-1-13
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,15,0,2020-1-14
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,15,0,2020-1-14
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,4.61,12.95,0.0,2,0,3,15,25.9,2020-1-15
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,15,0,2020-1-15
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.06,12.95,0.0,3,0,3,14,12.95,2020-1-16
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,14,0,2020-1-16
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,12,0,2020-1-17
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,12,0,2020-1-17
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.74,12.95,0.0,5,1,3,17,12.95,2020-1-18
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,17,0,2020-1-18
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.9,12.95,0.0,6,0,3,19,12.95,2020-1-19
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,19,0,2020-1-19
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,17,0,2020-1-20
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,17,0,2020-1-20
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.54,12.95,0.0,1,0,3,11,12.95,2020-1-21
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,11,0,2020-1-21
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,2.04,12.95,0.0,2,0,4,14,12.95,2020-1-22
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,14,0,2020-1-22
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.31,12.95,0.0,3,0,4,19,12.95,2020-1-23
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,19,0,2020-1-23
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,21,0,2020-1-24
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,21,0,2020-1-24
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,22,0,2020-1-25
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,22,0,2020-1-25
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.44,12.95,0.0,6,0,4,19,12.95,2020-1-26
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,19,0,2020-1-26
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,19,0,2020-1-27
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,19,0,2020-1-27
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,21,0,2020-1-28
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,21,0,2020-1-28
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,17,0,2020-1-29
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,5,17,0,2020-1-29
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,3.46,12.95,0.0,3,0,5,18,25.9,2020-1-30
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,5,18,0,2020-1-30
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,21,0,2020-1-31
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,21,0,2020-1-31
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.73,12.95,0.0,4,0,1,24,12.95,2019-11-1
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,1,24,0,2019-11-1
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,0.77,12.95,0.0,5,1,1,26,12.95,2019-11-2
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,1,26,0,2019-11-2
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,27,0,2019-11-3
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,1,27,0,2019-11-3
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,26,0,2019-11-4
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,1,26,0,2019-11-4
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,28,0,2019-11-5
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,1,28,0,2019-11-5
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,4.35,12.95,0.0,2,0,1,27,25.9,2019-11-6
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,1,27,0,2019-11-6
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-11-7
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,1,27,0,2019-11-7
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,29,0,2019-11-8
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,2,29,0,2019-11-8
+Large Chile Relleno,3.0,0.0,38.85,0.0,-0.0,38.85,0.8,12.95,0.0,5,1,2,29,38.85,2019-11-9
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,2,29,0,2019-11-9
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,27,0,2019-11-10
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,2,27,0,2019-11-10
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,26,0,2019-11-11
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,2,26,0,2019-11-11
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,28,0,2019-11-12
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,2,28,0,2019-11-12
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-11-13
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,2,25,0,2019-11-13
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,23,0,2019-11-14
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,2,23,0,2019-11-14
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,21,0,2019-11-15
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,3,21,0,2019-11-15
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,27,0,2019-11-16
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,3,27,0,2019-11-16
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,28,0,2019-11-17
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,3,28,0,2019-11-17
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,28,0,2019-11-18
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,3,28,0,2019-11-18
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,24,0,2019-11-19
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,3,24,0,2019-11-19
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-11-20
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,3,12,0,2019-11-20
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,14,0,2019-11-21
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,3,14,0,2019-11-21
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,17,0,2019-11-22
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,4,17,0,2019-11-22
+Large Chile Relleno,2.0,0.0,25.9,0.0,-0.0,25.9,1.94,12.95,0.0,5,1,4,18,25.9,2019-11-23
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,4,18,0,2019-11-23
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,20,0,2019-11-24
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,6,0,4,20,0,2019-11-24
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,18,0,2019-11-25
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,0,0,4,18,0,2019-11-25
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,15,0,2019-11-26
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,1,0,4,15,0,2019-11-26
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,4.12,12.95,0.0,2,0,4,11,12.95,2019-11-27
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,2,0,4,11,0,2019-11-27
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,8,0,2019-11-28
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,3,0,4,8,0,2019-11-28
+Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,9,0,2019-11-29
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,4,0,5,9,0,2019-11-29
+Large Chile Relleno,1.0,0.0,12.95,0.0,-0.0,12.95,1.16,12.95,0.0,5,1,5,11,12.95,2019-11-30
+Special Large Chile Relleno,0,0,0,0,0,0,0,0,0,5,1,5,11,0,2019-11-30

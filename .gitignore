@@ -1,6 +1,6 @@
 /client/.env.development
 /client/.env.production
-/server/yarn.lock
+yarn.lock
 /server/package-lock.json
 node_modules/
 package-lock.json

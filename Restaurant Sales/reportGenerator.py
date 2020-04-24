@@ -204,7 +204,7 @@ for item in ITEM_NAMES:
 
     
 for index, itemName in enumerate(ITEM_NAMES):
-    with open( reportFolder+'/'+ itemName.replace("/","&") +'.csv', 'w') as f:
+    with open( reportFolder+'/'+ itemName.replace("/","&").replace('"',"&") +'.csv', 'w') as f:
         writer = csv.writer(f)
         completeItemData = []
         for instance in itemIndices[index]:
